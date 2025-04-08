@@ -1,4 +1,8 @@
 import requests
+# IDEA: pull the list of words from the site (however the heck thats done) and
+# use the count function to count each individual letter, then compare those
+# amounts to each other to find the largest one. print that value and the
+# corresponding letter
 
 # You can ignore how this function works, it's just used to get the list of words in all_words above
 def get_valid_wordle_words():

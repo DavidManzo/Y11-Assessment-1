@@ -1,6 +1,7 @@
 from testhelper import test
 # IDEA: make each digit in the lists their own variable, then painstakingly add
 # each variable in [list1] to the corresponding [list2] variable
+
 def sum_number_lists(list1, list2):
     list1=int(input())
 

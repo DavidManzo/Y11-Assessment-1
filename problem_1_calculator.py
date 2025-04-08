@@ -1,5 +1,6 @@
 from testhelper import test
-# 
+# IDEA: 
+
 def calculate(input1, operator, input2):
     pass #Replace with your code
 
