@@ -1,5 +1,7 @@
 from testhelper import test
-
+# IDEA: compare each possible sum (123,456,789,147,258,369,159,357) to each other,
+# if they ALL are equal to each other, print "true". if even one sum is different
+# from the rest, print "false"
 def is_square_magic(square):
     pass # Replace this with your code
 
